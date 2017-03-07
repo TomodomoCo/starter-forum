@@ -10,3 +10,7 @@ bower_components/
 cache
 .cache
 npm-debug.log
+
+# Credentials
+s3.json
+credentials.json
